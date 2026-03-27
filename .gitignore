@@ -1,0 +1,18 @@
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Datos grandes (no versionar el RData)
+*.RData
+
+# OS
+.DS_Store
+Thumbs.db
